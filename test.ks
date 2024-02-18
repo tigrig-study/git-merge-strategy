@@ -1,5 +1,5 @@
 テスト
 
-[jump storage=title.ks]
+[jump storage=vol1.ks]
 
 [s]
